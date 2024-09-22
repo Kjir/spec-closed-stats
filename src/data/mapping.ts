@@ -14,10 +14,10 @@ export const GameNameMappingToDisplayName = {
     'SPEC Amazon Tunnel': "Amazon Tunnel",
     'SPEC Dzong': "Dzong",
     'SPEC Fortified Clearing': "Fortified Clearing",
-    'SPEC Fortress': "Fortress",
+    'SPEC Fortress': "Regicide Fortress",
     'SPEC Glade': "Glade",
     'SPEC Golden-Fort': "Golden Fort",
-    'SPEC Hidden Forts': "Hidden Fortress",
+    'SPEC Hidden Forts': "Hidden Forts",
     'SPEC Ring of Reeds': "Ring of Reeds",
     'SPEC ZeWall': "ZeWall",
 };
