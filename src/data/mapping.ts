@@ -1,3 +1,6 @@
+export const acceptableMisnamedMaps = {
+    "TCC Ring of Reeds": "SPEC Ring of Reeds",
+};
 export const mapDraftNameToGameNameMapping = {
     "Andalucia": "SPEC Andalucia",
     "Amazon Tunnel": 'SPEC Amazon Tunnel',
